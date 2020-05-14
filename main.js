@@ -1,7 +1,7 @@
 /*TODO*/
 const turn = () => {
 	fall ()
-
+	paint ()
 }
 
 /*TODO*/
