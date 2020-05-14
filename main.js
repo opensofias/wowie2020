@@ -37,6 +37,12 @@ const piecesTypes = [[
 ]
 
 const paint = (arena, piece) => {
+	const context = document.getElementById ('canvas').getContext('2d')
+
+	
+}
+
+
 /* TODO
 * keyboard listener
 * crawly phase
